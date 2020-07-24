@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String vas = "New version";
+        Mossess mossess = new Mossess("Desecry");
     }
 }
